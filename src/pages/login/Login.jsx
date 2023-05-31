@@ -170,7 +170,7 @@ const Login = () => {
                   href="#"
                   class="text-sm font-thin hover:underline dark:text-primary-500"
                 >
-                  Forgot password?
+                  Forgot password??
                 </a>
               </div>
               <button
